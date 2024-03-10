@@ -1,0 +1,35 @@
+body {
+    background-image: url("background.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    text-align: center;
+}
+
+.heading {
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+}
+
+#stuff {
+    font-size: 18px;
+}
+
+#status {
+    font-size: 18px;
+}
+
+canvas {
+    border: 1px solid black;
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px gray;
+}
+
+footer {
+    position: fixed;
+    bottom: 0;
+    background-color: aquamarine;
+    width: 100%;
+    padding: 10px;
+    font-size: 20px;
+}
